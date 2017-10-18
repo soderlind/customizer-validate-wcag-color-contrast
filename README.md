@@ -1,8 +1,8 @@
 # Validate WCAG Color Contrast for Customizer Color Control
 
-The validator will post a warning if the contrast is less than 4.5
+The validator measures the color contrast between 2 or more color controls. It will post a warning if the contrast is less than 4.5
 
-BTW, if the contrast >= 7,  the score is a WCAG AAA. If the contrast >= 4.5 the score is a WCAG AA.
+BTW, if the contrast >= 7,  the score is a WCAG AAA. If the contrast is between 7 and 4.5 the score is a WCAG AA.
 
 <img src="assets/wcag-color-contrast.gif" width="650" />
 
